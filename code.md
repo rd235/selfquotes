@@ -12,6 +12,7 @@ Cosa &egrave; mai il codice?
 
 Il codice &egrave; un trattino rosa fra le parole input e output.
 
+## License
 
 (C) 2016 Renzo Davoli CC-BY-SA 4.0 
 
